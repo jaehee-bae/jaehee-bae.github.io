@@ -1,10 +1,33 @@
 ---
 layout: page
-title: About
+title: Hello, I'm Jaehee.
 ---
 
-Hello.
+**About Me**
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Product Engineer focused on building AI-driven workflow systems and collaboration tools.
 
-**Less is more..**
+I enjoy turning complex operational problems into scalable products by combining product thinking, frontend engineering, and AI-assisted workflows. My experience ranges from ERP process innovation and data pipeline architecture to AI dataset operations platforms and VSCode-based collaboration tools.
+
+Recently, I've been focusing on:
+- AI workflow systems
+- Human-in-the-loop AI products
+- AI-assisted productivity tools
+- Agent workflows & automation
+- Frontend architecture for AI applications
+
+I'm especially interested in how AI can improve real-world team operations, not just model performance itself.
+
+
+**Tech Stack**
+- Frontend: Next.js, React, TypeScript, TailwindCSS
+- AI/Product: LLM Workflow, RLHF, Red Teaming, Prompt Engineering
+- Backend & Infra: PostgreSQL, FastAPI, Django, Scrapy
+- Tools: VSCode Extension, Amplitude, Figma, n8n
+
+**Current Interests**
+- AI Product Engineering
+- Agentic Workflow Systems
+- AI Collaboration Platforms
+- AI-powered Internal Tools
+- Workflow Automation
