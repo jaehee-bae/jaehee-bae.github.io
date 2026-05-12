@@ -12,6 +12,14 @@ A place where I write about whatever I'm into — tech, products, ideas, and any
 
 Built with [Jekyll](https://jekyllrb.com) using the [The Plain](https://github.com/heiswayi/the-plain) theme.
 
+## Local Development
+
+```bash
+bundle exec jekyll serve
+```
+
+브라우저에서 `http://localhost:4000` 으로 접속하면 배포 전에 미리 확인할 수 있다.
+
 ## License
 
 [MIT](LICENSE)
