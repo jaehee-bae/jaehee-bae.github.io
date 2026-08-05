@@ -1,5 +1,5 @@
 ---
-title: 2026 Wanted Makers Day 후기 (1) - AI 시대에도 살아남는 엔지니어는 무엇이 다른가
+title: 2026 Wanted Makers Day (1) - AI 시대에도 살아남는 엔지니어는 무엇이 다른가
 updated: 2026-07-13 17:00
 ---
 
